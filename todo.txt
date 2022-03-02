@@ -1,0 +1,7 @@
+User Register API
+User Login API
+Change Password API
+Get Logged in User Data API 
+Send Reset Password Link Send To Email API
+Reset / Forgot  Password Success API
+
